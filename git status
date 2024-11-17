@@ -1,0 +1,35 @@
+[33mcommit 9ad6462c21fa799d133db62f5e57e6c1af5efc2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: George <gcyoosf@gmail.com>
+Date:   Tue Jul 25 12:45:37 2023 -0400
+
+    updates footer text
+
+[33mcommit e5845259f5ac0c59a56004cb0caf38b4a8d73424[m
+Author: Xander Rapstine <xanderrapstine@gmail.com>
+Date:   Thu Feb 13 15:04:06 2020 -0600
+
+    Delete LICENSE
+
+[33mcommit f7918641ad2c971b3d1304bee5d442844a222ca3[m
+Author: Xander Rapstine <xanderrapstine@gmail.com>
+Date:   Thu Feb 13 15:02:24 2020 -0600
+
+    Customize gitignore
+
+[33mcommit 807435ca73e1156607b1719ee176bba6c5917e86[m
+Author: Xander Rapstine <xanderrapstine@gmail.com>
+Date:   Thu Feb 13 15:00:22 2020 -0600
+
+    Naming README
+
+[33mcommit f24166b618761b050c306c7bd603a280b4f1ac97[m
+Author: Xander Rapstine <xanderrapstine@gmail.com>
+Date:   Thu Feb 13 14:58:52 2020 -0600
+
+    Starter Code
+
+[33mcommit 852610b891c30d67496be6e2c55cd68cf26fbdbb[m
+Author: Xander Rapstine <xanderrapstine@gmail.com>
+Date:   Thu Feb 13 14:54:47 2020 -0600
+
+    Initial commit
