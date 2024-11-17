@@ -10,7 +10,14 @@ This project is a refactor of starter code to work, learn, and improve structure
 - responsive layout
 - Easy to view
 
-##Installation
-1. Download the project or clone it using:
+## Installation
+Download the project or clone it using:
 Gitbash
 git clone https://github.com/realdanielsoto/Module-1.git
+
+## Screenshot
+![Deployed Application Screenshot](assets/images/sshotmod1.png)
+
+## Deployed Application
+
+The application is live and accessible at: [https://realdanielsoto.github.io/Module-1]
